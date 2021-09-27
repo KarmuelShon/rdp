@@ -1,3 +1,2 @@
 # rdp
-red deploy program
-nothing more nothing less.
+red deploy program.
