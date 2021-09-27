@@ -1,0 +1,18 @@
+{
+  "name": "exsv",
+  "version": "1.0.0",
+  "description": "exhibit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "debugger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": ""
+  }
+}
